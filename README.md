@@ -1,4 +1,11 @@
- <div align="center">
+<div align="center">
+  <img src="./assets/Aman%20Kumar%20Java%20Developer%20Banner.png"
+       width="100%"
+       alt="Aman Kumar Java Developer Banner"/>
+</div>
+
+<br/>
+<div align="center">
 
 # Hi, I'm Aman Kumar 👋
 
