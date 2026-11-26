@@ -1,3 +1,4 @@
+
 <div align="center">
   <img src="./assets/Aman%20Kumar%20Java%20Developer%20Banner.png"
        width="100%"
@@ -5,6 +6,7 @@
 </div>
 
 <br/>
+
 <div align="center">
 
 <a href="https://github.com/amankumar0601">
@@ -14,6 +16,8 @@
 <p>
   <img src="https://komarev.com/ghpvc/?username=amankumar0601&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
+
+</div>
 
 ---
 
@@ -36,31 +40,31 @@ Hello! I'm **Aman Kumar**, a Computer Science undergraduate specializing in Arti
 
 ### Programming Languages
 
-<p>
+<div align="center">
   <img src="https://skillicons.dev/icons?i=java,python,c,js" />
-</p>
+</div>
 
 ### Web Technologies
 
-<p>
+<div align="center">
   <img src="https://skillicons.dev/icons?i=html,css" />
-</p>
+</div>
 
 ### Database & Tools
 
-<p>
+<div align="center">
   <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,arduino" />
-</p>
+</div>
 
 ---
 
 ## 📚 Currently Learning
 
-- ☕ Java – Object-Oriented Programming and advanced concepts.
-- 🧩 Data Structures & Algorithms using Java.
-- 🔍 Problem-solving and algorithm optimization.
-- 💾 Database Management Systems and SQL.
-- 🏗️ Software development fundamentals.
+- ☕ **Java** – Object-Oriented Programming and advanced concepts.
+- 🧩 **Data Structures & Algorithms** using Java.
+- 🔍 **Problem-solving** and algorithm optimization.
+- 💾 **Database Management Systems** and SQL.
+- 🏗️ **Software development** fundamentals.
 
 ---
 
@@ -93,20 +97,31 @@ An IoT-based smart irrigation solution designed to monitor soil moisture and aut
 
 🏆 **Achievement:** Runner-up in the project competition.
 
-### 3. GEONEXA – Smart India Hackathon Project
-
-A solution developed as part of the Smart India Hackathon initiative.
-
-**Contribution:** Researching and identifying an effective solution that improves upon existing approaches.
-
 ---
 
-## 🏆 Achievements & Certifications
+## 🏆 Achievements
 
 - 🥈 Runner-up – Smart Irrigation System Project.
 - 🚀 Participated in Smart India Hackathon (SIH).
-- 📜 TCS iON Youth Professional Certification.
 - 💻 Consistently practicing Data Structures & Algorithms.
+
+---
+
+## 💻 Coding Profiles
+
+### LeetCode
+
+<div align="center">
+
+<a href="https://leetcode.com/u/Aman_kumar0601/">
+  <img src="https://img.shields.io/badge/LeetCode-Aman__kumar0601-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<img src="https://leetcard.jacoblin.cool/Aman_kumar0601?theme=dark&font=Baloo&ext=heatmap" width="100%" alt="Aman Kumar LeetCode Statistics" />
+
+</div>
 
 ---
 
@@ -117,6 +132,8 @@ A solution developed as part of the Smart India Hackathon initiative.
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=amankumar0601&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amankumar0601&layout=compact&theme=tokyonight&hide_border=true" />
+
+<br/><br/>
 
 <img width="70%" src="https://streak-stats.demolab.com?user=amankumar0601&theme=tokyonight&hide_border=true" />
 
@@ -138,17 +155,13 @@ A solution developed as part of the Smart India Hackathon initiative.
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/aman-kumar0601/">
+<a href="https://www.linkedin.com/in/aman-kumar-0601/">
   <img src="https://img.shields.io/badge/LinkedIn-Aman%20Kumar-blue?style=for-the-badge&logo=linkedin" />
 </a>
-<a href="https://leetcode.com/u/Aman_kumar0601/">
-  <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
-</a>
+
 <a href="https://github.com/amankumar0601">
   <img src="https://img.shields.io/badge/GitHub-amankumar0601-black?style=for-the-badge&logo=github" />
 </a>
-
-
 
 <a href="mailto:amanraj06012006@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail" />
