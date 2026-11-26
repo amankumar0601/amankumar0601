@@ -7,10 +7,6 @@
 <br/>
 <div align="center">
 
-# Hi, I'm Aman Kumar 👋
-
-### Java Developer | DSA Enthusiast | B.Tech CSE (AI & ML)
-
 <a href="https://github.com/amankumar0601">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Java+Developer+in+Progress;DSA+%7C+Problem+Solving;Building+Real+World+Projects;Learning+Something+New+Every+Day" />
 </a>
@@ -18,15 +14,6 @@
 <p>
   <img src="https://komarev.com/ghpvc/?username=amankumar0601&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
-
-<a href="https://www.linkedin.com/in/aman-kumar0601/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-</a>
-<a href="https://github.com/amankumar0601">
-  <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
-</a>
-
-</div>
 
 ---
 
